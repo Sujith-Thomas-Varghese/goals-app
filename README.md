@@ -20,6 +20,6 @@ then use `yarn start` or `npm start`,
 this will run the application locally at [http://localhost:3000](http://localhost:3000)
 
 ### Images
-![](../ApplicationWorking.png)
-![](../ApplicationWorking2.png)
+![](ApplicationWorking.png)
+![](ApplicationWorking2.png)
 
